@@ -30,7 +30,7 @@ The following sections describe previous months' updates to **Power BI Desktop**
 
 
 
-## November 2022 Update (2.111.265.0)
+## November 2022 Update (2.111.590.0)
 
 November's updates felt like a family reunion, and we were thankful and grateful for the heaping-tall servings of updates, features, and new capabilities. Please pass the data to this end of the table. 
 
